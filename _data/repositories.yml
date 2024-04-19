@@ -1,10 +1,8 @@
-github_users:
-  - torvalds
-  - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
+  - patrickdx/patrickdx.github.io
+  - patrickdx/InvestorWatch
+  - patrickdx/mc_speedrun_data
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
