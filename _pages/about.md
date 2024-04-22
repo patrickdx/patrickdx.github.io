@@ -12,7 +12,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I'm currently working as a data analyst @ [BMO](https://commercial.bmo.com/en/ca/industry-expertise/technology/). As an aspiring data engineer, I strive to learn all about the stuff that happens in data engineering lifecycle.
