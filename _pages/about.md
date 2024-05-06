@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 I'm currently working as a data analyst @ [BMO](https://commercial.bmo.com/en/ca/industry-expertise/technology/). As an aspiring data engineer, I strive to learn all about the stuff that happens in data engineering lifecycle.
 
 
-I like to program as a side-hobby, discovering new technologies and building whatever projects I deem interesting. My main language is `Python`, in the past I've also dabbled in video game development with `Godot` and backend programming in `Java`. 
+I like to program as a side-hobby, discovering new technologies and building whatever projects I deem interesting. My main language is `Python`; in the past I've also dabbled in video game development with `Godot` and backend programming in `Java`. 
 
 
 Before this I was studying at the [Lassonde School of Engineering](https://lassonde.yorku.ca/), majoring in **Software Development**. 
