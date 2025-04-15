@@ -1,0 +1,51 @@
+site_name: ''
+site_url: ''
+
+theme:
+  name: material
+  custom_dir: docs/overrides       # Custom theme directory
+  font:
+    text: SF Pro Display
+    code: SF Mono
+  palette:
+    - scheme: default
+      primary: white
+      accent: blue
+      toggle:
+        icon: octicons/sun-24
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-3
+        name: Switch to light mode
+  
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+  
+  icon:
+    logo: material/chart-areaspline
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/yourprofile
+    - icon: fontawesome/brands/github
+      link: https://github.com/patrickdx
+
+copyright: Copyright &copy; 2025 Patrick Qi
+markdown_extensions:
+  - attr_list 
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
