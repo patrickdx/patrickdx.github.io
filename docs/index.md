@@ -60,7 +60,7 @@ Before this I was studying at the <a>Lassonde School of Engineering, </a> majori
 
 
 
-Feel free to contact me at qipatrick1@gmail.com
+Feel free to contact me at ![here.](mailto:qipatrick1@gmail.com)
 
 
 
