@@ -20,7 +20,7 @@
     },
     {
       "description": "",
-      "proName": "NYSE:BABA"
+      "proName": "NASDAQ:AMD"
     },
     {
       "description": "",
